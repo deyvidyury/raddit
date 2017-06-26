@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Little link aggregator site built with Rails 5. Based on Mackenzie Child's videos series 12 web app in 12 weeks. It uses Devise for user authentication, bootstrap for styling, and acts_as_votable fot up and down vote links.
